@@ -1,0 +1,9 @@
+{
+	"name": "ADF-des-demo-training",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aad131de-6d95-4b5f-9067-ca75b4a86863",
+		"tenantId": "e6983ef6-68dd-4601-a938-47d8c61c5770"
+	}
+}
